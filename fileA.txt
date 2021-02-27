@@ -1,3 +1,4 @@
 Typed in file
 New changes
 Another change
+Change to test merging.
