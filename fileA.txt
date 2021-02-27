@@ -2,4 +2,5 @@ Typed in file
 New changes
 Another change
 Change to test merging.
-Testing merge conflicts
+<<<<<<< HEAD
+Testing merge conflicts and it works.
